@@ -115,6 +115,13 @@ export const projects: Project[] = [
     githubUrl: 'https://github.com/saulgoodman-bot/SubwayCatch',
   },
   {
+    title: 'Vani\'s NutriTreats E-Commerce Website',
+    description:
+      'Developed a full-stack e-commerce web application for a healthy snacks brand using React, TypeScript, Node.js, Express.js, and MongoDB, delivering a responsive and user-friendly shopping experience.',
+    tech: ['React', 'TypeScript', 'Node.js', 'Express.js', 'MongoDB','SMTP','REST API'],
+    githubUrl: 'https://github.com/Saigurupriya23/vani_nutritreats'
+  },
+  {
     title: 'IIT Kharagpur Online Guest House Booking System',
     description:
       'Developed a full-stack Guest House Booking System using Flask, HTML/CSS, SQLAlchemy, and SMTP with secure role-based authentication, online payments, OTP/email notifications, and optimized database performance for efficient reservation management.',
