@@ -14,14 +14,12 @@ export function ContactSection() {
 
         {/* Subtitle */}
         <p className="reveal text-zinc-400 text-base leading-relaxed max-w-lg mx-auto mb-10">
-          I&apos;m always open to discussing FPGA and hardware design roles, research
-          collaborations, and engineering opportunities across RTL, ASIC, and
-          low-latency systems.
+          I&apos;m open to internships and full-time Software Engineering opportunities across backend, full-stack, AI/ML, cloud, distributed systems, and developer infrastructure, with a passion for solving complex problems and building scalable software.
         </p>
 
         {/* "Say Hello" pill button — matches reference exactly */}
         <a
-          href="mailto:chandrakirannarala@gmail.com"
+          href="mailto:saigurupriyanarala@gmail.com"
           className="reveal inline-flex items-center gap-2.5 rounded-full bg-white px-8 py-4 text-base font-semibold text-black hover:bg-zinc-100 transition-colors duration-200 shadow-lg"
         >
           <Mail size={18} />
@@ -55,7 +53,7 @@ export function ContactSection() {
 
         {/* Footer line */}
         <p className="reveal mt-16 text-zinc-600 text-sm">
-          © {new Date().getFullYear()} Chandra Kiran Narala. Built with Next.js &amp; Tailwind.
+          © {new Date().getFullYear()} Sai Guru Priya Narala. Built with Next.js &amp; Tailwind.
         </p>
       </div>
     </section>

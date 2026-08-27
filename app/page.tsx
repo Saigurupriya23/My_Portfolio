@@ -36,15 +36,13 @@ export default function HomePage() {
                 {/* Left — text */}
                 <div className="space-y-5 text-[1.05rem] text-zinc-400 leading-relaxed">
                   <p className="reveal">
-                    I am an engineer specializing in FPGA/ASIC design, RTL development, and performance-focused hardware-software systems. My background spans Verilog/SystemVerilog, FPGA prototyping, SRAM design, timing analysis, embedded systems, C++, Python, and low-latency data pipelines.
+                    I am an aspiring Software Engineer with strong proficiency in C++, Python, Data Structures & Algorithms, and full-stack development.
                   </p>
                   <p className="reveal">
-                    I am actively seeking full-time roles in FPGA design, ASIC design, hardware engineering, digital design, embedded systems, and low-latency systems.
+                    I have experience in building scalable web applications, asynchronous backend systems, real-time data processing pipelines, and AI-driven applications using Flask, Django, SQL, Redis, and cloud deployment.
                   </p>
                   <p className="reveal">
-                    Beyond hardware, I care about the intersection of silicon and software —
-                    building tools and systems where every nanosecond and every byte matters.
-                    I&apos;m currently pursuing Software Engineer, FPGA Compiler Software Engineer, ASIC Design, and RTL Design roles.
+                    I am passionate about designing efficient, reliable, and user-centric software with a focus on performance optimization, clean architecture, and problem-solving.
                   </p>
                 </div>
 
@@ -52,7 +50,7 @@ export default function HomePage() {
                 <div className="reveal justify-self-center md:justify-self-end">
                   <div className="rounded-2xl border border-white/[0.08] bg-white/[0.03] p-2 shadow-xl">
                   <div className="relative rounded-xl overflow-hidden w-[280px] h-[320px] md:w-[300px] md:h-[360px]">
-                      <Image src="/photo.jpg" alt="Chandra Kiran Narala" fill className="object-cover object-top" priority />
+                      <Image src="/photo.jpeg" alt="Chandra Kiran Narala" fill className="object-cover object-top" priority />
                     </div>
                   </div>
                 </div>

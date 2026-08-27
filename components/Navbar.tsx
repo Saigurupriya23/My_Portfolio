@@ -63,7 +63,7 @@ export function Navbar() {
             href="#"
             className="flex items-center gap-0 text-[1.15rem] font-bold tracking-tight select-none"
           >
-            <span className="text-white">Chandra Kiran</span>
+            <span className="text-white">Sai Guru Priya</span>
             <span className="ml-1.5 rounded bg-white px-1 py-0.5 text-[1rem] font-bold text-black leading-none tracking-normal align-middle">
               Narala
             </span>
@@ -86,7 +86,7 @@ export function Navbar() {
           {/* Right side: social icons + theme toggle */}
           <div className="hidden md:flex items-center gap-4 text-zinc-400">
             <a
-              href="https://github.com/chandrakirannarala"
+              href="https://github.com/Saigurupriya23"
               aria-label="GitHub"
               target="_blank"
               rel="noreferrer"
@@ -95,7 +95,7 @@ export function Navbar() {
               <Github size={18} />
             </a>
             <a
-              href="https://www.linkedin.com/in/chandrakirannarala/"
+              href="https://www.linkedin.com/in/saigurupriya/"
               aria-label="LinkedIn"
               target="_blank"
               rel="noreferrer"
@@ -104,7 +104,7 @@ export function Navbar() {
               <Linkedin size={18} />
             </a>
             <a
-              href="/assets/myresume.pdf"
+              href="https://drive.google.com/file/d/1B1jaKUaCkzAf12uM32WnyoDlic0b1idX/view?usp=sharing"
               aria-label="Resume"
               target="_blank"
               rel="noreferrer"
@@ -160,7 +160,7 @@ export function Navbar() {
             ))}
             <li className="flex gap-6 text-zinc-400 pt-4">
               <a
-                href="https://github.com/chandrakirannarala"
+                href="https://github.com/Saigurupriya23"
                 aria-label="GitHub"
                 target="_blank"
                 rel="noreferrer"
@@ -169,7 +169,7 @@ export function Navbar() {
                 <Github size={22} />
               </a>
               <a
-                href="https://www.linkedin.com/in/chandrakirannarala/"
+                href="https://www.linkedin.com/in/saigurupriya/"
                 aria-label="LinkedIn"
                 target="_blank"
                 rel="noreferrer"

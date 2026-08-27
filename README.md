@@ -27,7 +27,7 @@ Edit `skills`, `experiences`, and `projects` arrays there.
 1. Place your photo at `public/photo.jpg`
 2. In `app/page.tsx`, replace the placeholder `<div>` with:
    ```tsx
-   <Image src="/photo.jpg" alt="Chandra Kiran Narala" width={300} height={360} className="object-cover" />
+   <Image src="/photo.jpeg" alt="Sai Guru Priya Narala" width={300} height={360} className="object-cover" />
    ```
 
 ## Adding Your Links

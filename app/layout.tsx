@@ -9,9 +9,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'Chandra Kiran Narala | FPGA Engineer',
+  title: 'Sai Guru Priya Narala',
   description:
-    'Portfolio of Chandra Kiran Narala — FPGA Engineer, RTL Design, Low-Latency Systems, and ASIC/SoC Design.',
+    'Portfolio of Sai Guru Priya Narala — Software Engineer, Backend Developer, Full-Stack Developer, and AI/ML Enthusiast.',
 };
 
 export default function RootLayout({
